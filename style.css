@@ -1,0 +1,24 @@
+body{
+    background-color: mediumaquamarine;
+}
+
+.container, .container-fluid{
+    background-color: olive;
+    padding: 5px;
+}
+#elsoSor{
+    background-color: royalblue;
+    /*width: 80%;*/
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+a:link{
+    /*background-color: red;*/
+    text-decoration: none;
+    color: red;
+}
+.keret{
+    border: 1px solid red;
+    text-align: center;
+}
